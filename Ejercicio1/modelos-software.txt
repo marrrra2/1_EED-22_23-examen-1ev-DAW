@@ -1,0 +1,5 @@
+Modelos de desarrollo de software:
+    -EN CASCADA
+    -CASCADA CON FEEDBACK
+    -ITERATIVO INCREMENTAL
+    -
